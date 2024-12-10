@@ -1,4 +1,4 @@
-![Diabetes Image](https://github.com/user-attachments/assets/2d778d50-5542-49eb-883b-a214eb279c7d)
+![PredictiveImage](https://github.com/user-attachments/assets/dd340aa8-7b65-4b95-9d31-99ea401fc4f8)
 
 ![image](https://github.com/user-attachments/assets/3c196be8-b27a-4e2f-b136-3ac511943eb6)
 
